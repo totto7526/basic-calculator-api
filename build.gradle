@@ -24,8 +24,8 @@ dependencies {
 
 sonarqube{
     properties{
-        property "sonar.projectName", "Quind - Basic Calculator"
-        property "sonar.projectKey", "quind-basicCalculator.key"
+        property "sonar.projectName", "santiago10 - Basic Calculator"
+        property "sonar.projectKey", "santiago10-basicCalculator.key"
         property "sonar.jacoco.reportPath", "${project.buildDir}/jacoco/jacocoTest.exec"
     }
 }
